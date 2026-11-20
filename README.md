@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiya6767/DSA-in-Python/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0001-two-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sadiya6767/DSA-in-Python/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sadiya6767/DSA-in-Python/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
